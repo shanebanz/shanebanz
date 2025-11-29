@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shanebanz
 - 👀 I’m interested in technology, astrology, and philosophy.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Mobile Applications Development.
 - 😄 Pronouns: He/Him
